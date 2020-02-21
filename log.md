@@ -1,9 +1,11 @@
 <h1 align="center">100 Days Of Code - Log</h1>
-<p align="right">by Zamir Narro</p>
+<p align="right"><em>by Zamir Narro</em></p>
 <img src="https://img.youtube.com/vi/mbiryVTIJ4Q/maxresdefault.jpg" alt="">
 
 Hello world! My name is Zamir, I'm peruvian and I've worked as a lawyer the last 10 years. I decided to start my coding journey because I love this field and community, hoping it's not too late for me. <br/>
 I'm happy to start with this challenge and I'll put good effort to achieve good learning after all. I know this will be tough and I'll wanna quit but I'm sure my Twitter friends and this log will keep me focused and motivated. Let's go!
+
+<p align="center"><strong>Follow me on Twitter <a href="https://twitter.com/ZamirNarroA" target="_blank">here</a></strong></p>
 
 <h2 align="center">Day 1: February 19, 2020</h2>
 <img src="https://bit.ly/2HNjHHv" alt="">
