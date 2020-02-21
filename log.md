@@ -20,12 +20,12 @@ I'm happy to start with this challenge and I'll put good effort to achieve good 
 
 
 <h2 align="center">Day 2: February 20, 2020</h2>
-<img src="#" alt="">
+<img src="https://bit.ly/38O74YC" alt="">
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've learnt about branching on Git.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Branches are powerful! This is getting really complex but it's so exciting to see what you can do switching between branches in a project. It's like Marvel multiverse, lol. Teacher is great and I'm learning well, maybe tomorrow I'll finish the merging feature.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to tweet:** [Zamir Narro, Day 2](https://twitter.com/ZamirNarroA/status/1230732680272072704)
+
+**Link(s) to work** [Version Control with Git](https://classroom.udacity.com/courses/ud123)
