@@ -29,3 +29,16 @@ I'm happy to start with this challenge and I'll put good effort to achieve good 
 **Link to tweet:** [Zamir Narro, Day 2](https://twitter.com/ZamirNarroA/status/1230732680272072704)
 
 **Link(s) to work** [Version Control with Git](https://classroom.udacity.com/courses/ud123)
+
+
+<h2 align="center">Day 3: February 21, 2020</h2>
+<img src="https://bit.ly/3bYjpvC" alt="">
+
+**Today's Progress**: I've learnt merging Git branches.
+
+**Thoughts** Today I merged Git branches. It took me some time to understand this command because of merge conflicts but lecture was great (I repeated it at least twice). Btw, "git log --oneline --graph --all" blew my mind, is quite useful.
+
+**Link to tweet:** [Zamir Narro, Day 3](https://twitter.com/ZamirNarroA/status/1231098460654440449)
+
+**Link(s) to work** [Version Control with Git](https://classroom.udacity.com/courses/ud123)
+
