@@ -42,3 +42,16 @@ I'm happy to start with this challenge and I'll put good effort to achieve good 
 
 **Link(s) to work** [Version Control with Git](https://classroom.udacity.com/courses/ud123)
 
+
+<h2 align="center">Day 4: February 22, 2020</h2>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/tDetKFm"><a href="//imgur.com/a/tDetKFm"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+**Today's Progress**: I've started a freeCodeCamp product-landing-page project.
+
+**Thoughts** Today I worked on a freeCodeCamp project. I wrote some HTML and CSS and I was excited to put on practice my new Git skills, commiting  everything (maybe too much, lol) and working a fixed header on another branch.
+
+**Link to tweet:** [Zamir Narro, Day 4](https://twitter.com/ZamirNarroA/status/1231456318042648576)
+
+**Link(s) to work**: 
+1. [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [My project repo](https://github.com/DeveLawyer/fcc-product-landing)
