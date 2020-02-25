@@ -55,3 +55,16 @@ I'm happy to start with this challenge and I'll put good effort to achieve good 
 **Link(s) to work**: 
 1. [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 2. [My project repo](https://github.com/DeveLawyer/fcc-product-landing)
+
+
+<h2 align="center">Day 5: February 23, 2020</h2>
+
+**Today's Progress**: Still freeCodeCamp product-landing-page project.
+
+**Thoughts** I'm still working on my freeCodeCamp product-landing-page project. I added some CSS rules. Also I received my first Macbook so I spent some time exploring it since I was working in a Linux VM. Loving the gestures... think I'll get used to soon!.
+
+**Link to tweet:** [Zamir Narro, Day 5](https://twitter.com/ZamirNarroA/status/1231820276582801410)
+
+**Link(s) to work**: 
+1. [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [My project repo](https://github.com/DeveLawyer/fcc-product-landing)
