@@ -136,3 +136,19 @@ I'm happy to start with this challenge and I'll put good effort to achieve good 
 **Link to tweet:** [Zamir Narro, Day 12](https://twitter.com/ZamirNarroA/status/1234329454182371333)
 
 **Link(s) to work**: [Traversy Media video](https://youtu.be/0pThnRneDjw)
+
+
+<h2 align="center">Days 13 & 14: March 02/03, 2020</h2>
+
+**Today's Progress**: I've started to learn media queries (part 2).
+
+**Thoughts** Media queries are still my kryptonite but I'm getting better. At least I could make my page half-responsive lol. Still can't figure out how to make full-width nav links, looks awful.
+
+<img src="https://media.giphy.com/media/KYhvyZvujJXAqQnaPJ/giphy.gif">
+
+**Link to tweet:** [Zamir Narro, Days 13/14](https://twitter.com/ZamirNarroA/status/1234238848722493442)
+
+**Link(s) to work**: 
+1. [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [The Net Ninja - Intro to media queries](https://www.youtube.com/watch?v=Xig7NsIE6DI)
+3. [DevTips - Responsive website basics](https://youtu.be/h3IdEqpjMvQ)
