@@ -125,3 +125,14 @@ I'm happy to start with this challenge and I'll put good effort to achieve good 
 **Link to tweet:** [Zamir Narro, Days 10/11](https://twitter.com/ZamirNarroA/status/1234238848722493442)
 
 **Link(s) to work**: [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+
+
+<h2 align="center">Day 12: March 01, 2020</h2>
+
+**Today's Progress**: I've watched a web development video map.
+
+**Thoughts** On the road again and just watched this video which I highly recommend. A complete and up-to-date map of the main technologies for web development. Pure gold for a #CodeNewbie. Thanks a lot @traversymedia.
+
+**Link to tweet:** [Zamir Narro, Day 12](https://twitter.com/ZamirNarroA/status/1234329454182371333)
+
+**Link(s) to work**: [Traversy Media video](https://youtu.be/0pThnRneDjw)
