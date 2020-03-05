@@ -70,7 +70,6 @@ I'm happy to start with this challenge and I'll put good effort to achieve good 
 2. [My project repo](https://github.com/DeveLawyer/fcc-product-landing)
 
 
-
 <h2 align="center">Day 6: February 24, 2020</h2>
 
 **Today's Progress**: I've practiced with JavaScript challenges.
@@ -80,3 +79,16 @@ I'm happy to start with this challenge and I'll put good effort to achieve good 
 **Link to tweet:** [Zamir Narro, Day 6](https://twitter.com/ZamirNarroA/status/1232202901482811392)
 
 **Link(s) to work** [Codewars](https://www.codewars.com/)
+
+
+<h2 align="center">Day 7: February 25, 2020</h2>
+
+**Today's Progress**: I've practiced Flexbox properties.
+
+**Thoughts** Today I continued with the freeCodeCamp product-landing-page. I applied flexbox properties to the pricing section, tool I was refreshing in the morning with @FlexboxDefense. Also I merged my fixed heading branch. It will get better soon!
+
+**Link to tweet:** [Zamir Narro, Day 7](https://twitter.com/ZamirNarroA/status/1232566972333875201)
+
+**Link(s) to work**: 
+1. [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [Flexbox Defense](http://www.flexboxdefense.com/)
