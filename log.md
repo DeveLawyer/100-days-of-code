@@ -92,3 +92,14 @@ I'm happy to start with this challenge and I'll put good effort to achieve good 
 **Link(s) to work**: 
 1. [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 2. [Flexbox Defense](http://www.flexboxdefense.com/)
+
+
+<h2 align="center">Day 8: February 26, 2020</h2>
+
+**Today's Progress**: I've played SoloLearn challenges.
+
+**Thoughts** I'm traveling and I tried to keep learning on the road. I'm doing some @SoloLearn challenges. Phone battery and poor internet connection are my handicaps.
+
+**Link to tweet:** [Zamir Narro, Day 8](https://twitter.com/ZamirNarroA/status/1232902194476855296)
+
+**Link(s) to work** [SoloLearn](https://www.sololearn.com/)
