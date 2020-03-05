@@ -103,3 +103,14 @@ I'm happy to start with this challenge and I'll put good effort to achieve good 
 **Link to tweet:** [Zamir Narro, Day 8](https://twitter.com/ZamirNarroA/status/1232902194476855296)
 
 **Link(s) to work** [SoloLearn](https://www.sololearn.com/)
+
+
+<h2 align="center">Day 9: February 27, 2020</h2>
+
+**Today's Progress**: I've worked on fcc project.
+
+**Thoughts** Last night I did make progress on my project but I didn't report cause I was too tired from the trip. Today I'll learn how to make it responsive.
+
+**Link to tweet:** [Zamir Narro, Day 9](https://twitter.com/ZamirNarroA/status/1233396725760421888)
+
+**Link(s) to work**: [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
