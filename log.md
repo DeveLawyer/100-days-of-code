@@ -114,3 +114,14 @@ I'm happy to start with this challenge and I'll put good effort to achieve good 
 **Link to tweet:** [Zamir Narro, Day 9](https://twitter.com/ZamirNarroA/status/1233396725760421888)
 
 **Link(s) to work**: [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+
+
+<h2 align="center">Days 10 & 11: February 28/29, 2020</h2>
+
+**Today's Progress**: I've started to learn media queries.
+
+**Thoughts** The last two days I didn't make a big progress. I tried to apply media queries to my project but didn't work well. I think it's because there are different element's properties like flexbox and position. I'll try again tomorrow returning from my trip.
+
+**Link to tweet:** [Zamir Narro, Days 10/11](https://twitter.com/ZamirNarroA/status/1234238848722493442)
+
+**Link(s) to work**: [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
